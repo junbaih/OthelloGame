@@ -1,5 +1,5 @@
 # OthelloGame
-This is a 1st-year Academic Project for a UCI intro cs class 
+This is an Academic Project for a UCI cs class 
 
 model.py contains the algorithm of the game. 
 
